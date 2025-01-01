@@ -3,7 +3,7 @@
     <title>Kulp Family Travels</title>
     <link href="file:///F:\Temp\Publii\previews/feed.xml" rel="self" />
     <link href="file:///F:\Temp\Publii\previews" />
-    <updated>2024-10-02T08:59:37-05:00</updated>
+    <updated>2025-01-01T16:01:29-06:00</updated>
     <author>
         <name>arian</name>
     </author>
@@ -16,8 +16,6 @@
         </author>
         <link href="file:///F:\Temp\Publii\previews/makhwapheni/index.html"/>
         <id>file:///F:\Temp\Publii\previews/makhwapheni/index.html</id>
-            <category term="eswatini"/>
-            <category term="africa"/>
 
         <updated>2020-03-16T09:08:40-05:00</updated>
             <summary>
@@ -46,7 +44,6 @@
         </author>
         <link href="file:///F:\Temp\Publii\previews/coronavirus/index.html"/>
         <id>file:///F:\Temp\Publii\previews/coronavirus/index.html</id>
-            <category term="japan"/>
 
         <updated>2020-02-29T07:30:17-06:00</updated>
             <summary>
@@ -75,7 +72,6 @@
         </author>
         <link href="file:///F:\Temp\Publii\previews/home-at-last/index.html"/>
         <id>file:///F:\Temp\Publii\previews/home-at-last/index.html</id>
-            <category term="nepal"/>
 
         <updated>2020-02-16T05:46:30-06:00</updated>
             <summary>
@@ -137,8 +133,6 @@
         </author>
         <link href="file:///F:\Temp\Publii\previews/the-halfway-point/index.html"/>
         <id>file:///F:\Temp\Publii\previews/the-halfway-point/index.html</id>
-            <category term="eswatini"/>
-            <category term="africa"/>
 
         <updated>2020-02-09T20:20:17-06:00</updated>
             <summary>
@@ -163,8 +157,6 @@
         </author>
         <link href="file:///F:\Temp\Publii\previews/january-in-eswatini/index.html"/>
         <id>file:///F:\Temp\Publii\previews/january-in-eswatini/index.html</id>
-            <category term="eswatini"/>
-            <category term="africa"/>
 
         <updated>2020-01-26T12:06:48-06:00</updated>
             <summary>
@@ -202,19 +194,15 @@
         </author>
         <link href="file:///F:\Temp\Publii\previews/tokyo-2/index.html"/>
         <id>file:///F:\Temp\Publii\previews/tokyo-2/index.html</id>
-        <media:content url="file:///F:\Temp\Publii\previews/media/posts/61/bubbles.jpg" medium="image" />
-            <category term="japan"/>
 
         <updated>2020-01-05T14:03:37-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:///F:\Temp\Publii\previews/media/posts/61/bubbles.jpg" alt="" />
                     As some of you may already know from other blog posts, we&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:///F:\Temp\Publii\previews/media/posts/61/bubbles.jpg" class="type:primaryImage" alt="" /></p>
                 <p>As some of you may already know from other blog posts, we had my entire immediate family come visit us in Japan for Christmas! My parents wanted to spend some time in Japan being a tourist on their way out to meet up with us (they arrived 5 days before Gabriel and Kendrea) so they looked into various attractions in Narita (where they landed), Tokyo (where they could catch a train to Sendai), and other places along the way. In their research, they found a site claiming that the Emperors palace is open on December 23rd due to it being the Emperors birthday. Since the palace is pretty much always closed to the public, Lilly and I thought that sounded really neat and wanted to go see the palace as well.</p>
 <p>In preparation for the trip, Lilly found a good AirBNB house that was a bit on the outskirts of Tokyo but still had train access. This allowed us to have easy access to Tokyo without needing to pay tons of money to actually be in Tokyo. The house was two stories and had two bedrooms, pretty much a perfect match for our needs!</p>
 <p><img decoding="async" loading="lazy" src="file:///F:/Temp/Publii/previews/media/posts/61/airBNB-house-outside.jpg" alt="Outside of the AirBNB house, we had the whole thing to ourselves." sizes="(max-width: 1024px) 100vw, 1024px" srcset="file:///F:/Temp/Publii/previews/media/posts/61/responsive/airBNB-house-outside-xs.webp 300w ,file:///F:/Temp/Publii/previews/media/posts/61/responsive/airBNB-house-outside-sm.webp 480w ,file:///F:/Temp/Publii/previews/media/posts/61/responsive/airBNB-house-outside-md.webp 768w ,file:///F:/Temp/Publii/previews/media/posts/61/responsive/airBNB-house-outside-lg.webp 1024w"></p>
@@ -281,7 +269,6 @@
         </author>
         <link href="file:///F:\Temp\Publii\previews/family-christmas-in-japan/index.html"/>
         <id>file:///F:\Temp\Publii\previews/family-christmas-in-japan/index.html</id>
-            <category term="japan"/>
 
         <updated>2020-01-03T09:31:46-06:00</updated>
             <summary>
@@ -336,8 +323,6 @@
         </author>
         <link href="file:///F:\Temp\Publii\previews/december-in-eswatini/index.html"/>
         <id>file:///F:\Temp\Publii\previews/december-in-eswatini/index.html</id>
-            <category term="eswatini"/>
-            <category term="africa"/>
 
         <updated>2019-12-28T11:33:16-06:00</updated>
             <summary>
@@ -373,8 +358,6 @@
         </author>
         <link href="file:///F:\Temp\Publii\previews/busy-roadsides/index.html"/>
         <id>file:///F:\Temp\Publii\previews/busy-roadsides/index.html</id>
-            <category term="eswatini"/>
-            <category term="africa"/>
 
         <updated>2019-12-28T08:40:41-06:00</updated>
             <summary>
@@ -408,7 +391,6 @@
         </author>
         <link href="file:///F:\Temp\Publii\previews/goodbye-nepal/index.html"/>
         <id>file:///F:\Temp\Publii\previews/goodbye-nepal/index.html</id>
-            <category term="nepal"/>
 
         <updated>2019-12-26T10:53:20-06:00</updated>
             <summary>
