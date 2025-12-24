@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: file:///F:\Temp\Publii\previews/sitemap.xml
